@@ -2,6 +2,10 @@
 
 Ventora is a modern, responsive, and secure Password Manager application built with a React frontend and an Express/Node.js backend, backed by MongoDB for persistent credential storage.
 
+## 🌐 Live Links
+- **Frontend (Vercel)**: [https://pass-safe-password.vercel.app/](https://pass-safe-password.vercel.app/)
+- **Backend API (Render)**: [https://passsafe-password-manager.onrender.com](https://passsafe-password-manager.onrender.com)
+
 ---
 
 ## 🚀 Features
