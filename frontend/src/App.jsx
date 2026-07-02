@@ -13,7 +13,7 @@ function App() {
   const [passwords, setPasswords] = useState([])
   const ref = useRef()
   const imgRef = useRef()
-  const API_URL = import.meta.env.API_URL || "http://localhost:3000/"
+  const API_URL = import.meta.env.VITE_API_URL || "http://localhost:3000/"
 
   const getPassword = async () => {
     const req = await fetch(`${API_URL}`)
